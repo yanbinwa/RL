@@ -1,0 +1,27 @@
+[I 2024-09-17 08:47:10.509 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-09-17 08:47:10.516 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-09-17 08:47:10.522 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-09-17 08:47:10.528 ServerApp] notebook | extension was successfully linked.
+[I 2024-09-17 08:47:10.530 ServerApp] Writing Jupyter server cookie secret to /Users/wyb/Library/Jupyter/runtime/jupyter_cookie_secret
+[I 2024-09-17 08:47:10.905 ServerApp] notebook_shim | extension was successfully linked.
+[I 2024-09-17 08:47:10.949 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-09-17 08:47:10.953 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-09-17 08:47:10.954 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-09-17 08:47:10.957 LabApp] JupyterLab extension loaded from /Users/wyb/Documents/代码/算法/RL/venv/lib/python3.9/site-packages/jupyterlab
+[I 2024-09-17 08:47:10.958 LabApp] JupyterLab application directory is /Users/wyb/Documents/代码/算法/RL/venv/share/jupyter/lab
+[I 2024-09-17 08:47:10.959 LabApp] Extension Manager is 'pypi'.
+[I 2024-09-17 08:47:10.987 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-09-17 08:47:10.992 ServerApp] notebook | extension was successfully loaded.
+[I 2024-09-17 08:47:10.993 ServerApp] Serving notebooks from local directory: /Users/wyb/Documents/代码/算法/RL/ddpg
+[I 2024-09-17 08:47:10.993 ServerApp] Jupyter Server 2.14.2 is running at:
+[I 2024-09-17 08:47:10.993 ServerApp] http://wybMacBook-Pro.local:8888/tree?token=8e88c1eb425b603587d311aff5a2754673165a444b47d3b3
+[I 2024-09-17 08:47:10.993 ServerApp]     http://127.0.0.1:8888/tree?token=8e88c1eb425b603587d311aff5a2754673165a444b47d3b3
+[I 2024-09-17 08:47:10.993 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2024-09-17 08:47:10.997 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///Users/wyb/Library/Jupyter/runtime/jpserver-2382-open.html
+    Or copy and paste one of these URLs:
+        http://wybMacBook-Pro.local:8888/tree?token=8e88c1eb425b603587d311aff5a2754673165a444b47d3b3
+        http://127.0.0.1:8888/tree?token=8e88c1eb425b603587d311aff5a2754673165a444b47d3b3
+[I 2024-09-17 08:47:11.314 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
